@@ -10,4 +10,4 @@ This repository can be used to make word clouds relating to the Cyber Security B
 4. Make a data folder and put the `reference.json` file (available: https://github.com/samattwood9/emerging-jobs-cybok) inside.
 5. Run `make_clouds.ipynb`.
 
-[^1]: This work is/was supported by the Cyber Security Body of Knowledge (CyBOK) call for funded Outreach, Adoption, and Awareness projects around CyBOK v1.1.
+[^1]: This work is/was supported by the Cyber Security Body of Knowledge (CyBOK) call for funded Outreach, Adoption, and Awareness projects around CyBOK v1.1. CyBOK © Crown Copyright, The National Cyber Security Centre 2023, licensed under the Open Government Licence http://www.nationalarchives.gov.uk/doc/open-government-licence/.
